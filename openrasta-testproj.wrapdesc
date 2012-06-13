@@ -1,0 +1,4 @@
+﻿name: openrasta-testproj
+depends: openwrap anchored content >= 2.0.3
+depends: simple.testing
+depends: openrasta-full
